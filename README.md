@@ -1,8 +1,8 @@
 # My portfolio
-Welcome to my portfolio.
-In this repository I have listed the projects that I did for my academic coursework and the projects that I did for learning purpose.
+This portfolio showcases my academic and personal data analysis projects. Here, you'll find a collection of work that demonstrates my skills in data visualization, problem-solving, and the ability to translate data into insights.
 
-**Project1:** [Spatiotemporal Trends in Honey Bee Colony Loss Across the United States](https://github.com/sowmiya-rajkumar/Spatiotemporal-Trends-in-Honey-Bee-Colony-Loss-Across-the-United-States)
+## **Project 1:** [Spatiotemporal Trends in Honey Bee Colony Loss Across the United States](https://github.com/sowmiya-rajkumar/Spatiotemporal-Trends-in-Honey-Bee-Colony-Loss-Across-the-United-States)
+
 In this project my goal was to explore Bee Colonies dataset and analyze the trends for the below questions.
 
 *Question:*
@@ -12,5 +12,16 @@ We categorized the above question into three parts.
 Part 1: Assessing Seasonal Variations in Bee Colony Loss,
 Part 2: Geographical Clustering Based on Bee Colony Loss Patterns and 
 Part 3: Quantifying Bee Colony Loss across US States
+
+Line graph, dendrogram and choropleth map are used to address these questions effectively.
+
+
+## **Project 2:** [A Multi-Factorial Analysis of Lemur Lifespan](https://github.com/sowmiya-rajkumar/A-Multi-Factorial-Analysis-of-Lemur-Lifespan)
+
+The objective of this project is to investigate the relationship between the age of a lemur’s mother when she conceives and the lemur’s lifespan. We will also examine whether this relationship is affected by the number of siblings the lemur has.
+
+For the first part of the analysis, linear regression is used to to explore the impact of maternal age at conception on lemur lifespan. And for the second part, facets is utilized to examine the relationship between lifespan and litter size for each distinct litter size group.
+
+
 
 
