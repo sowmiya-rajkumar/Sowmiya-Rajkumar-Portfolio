@@ -16,11 +16,23 @@ Part 3: Quantifying Bee Colony Loss across US States
 Line graph, dendrogram and choropleth map are used to address these questions effectively.
 
 
+
+<img width="861" alt="Screen Shot 2024-03-07 at 10 24 18 PM" src="https://github.com/sowmiya-rajkumar/Sowmiya-Rajkumar-Portfolio/assets/98767488/65b66dcf-2f06-44a6-b5e8-596c782055bb">
+
+
+
 ## **Project 2:** [A Multi-Factorial Analysis of Lemur Lifespan](https://github.com/sowmiya-rajkumar/A-Multi-Factorial-Analysis-of-Lemur-Lifespan)
 
 The objective of this project is to investigate the relationship between the age of a lemur’s mother when she conceives and the lemur’s lifespan. We will also examine whether this relationship is affected by the number of siblings the lemur has.
 
-For the first part of the analysis, linear regression is used to to explore the impact of maternal age at conception on lemur lifespan. And for the second part, facets is utilized to examine the relationship between lifespan and litter size for each distinct litter size group.
+For the first part of the analysis, linear regression is used to to explore the impact of maternal age at conception on lemur lifespan. And for the second part, facets from ggplot2 library is utilized to examine the relationship between lifespan and litter size for each distinct litter size group.
+
+
+## **Project 3:** [Sales Report Using Tableau](https://github.com/sowmiya-rajkumar/Sales-Report-Dashboard-using-Tableau/tree/main)
+
+Unveiling a three-year journey (2018-2020) of sales and profit trends, this project utilizes a range of data visualizations. Maps, bar charts, quadrant charts, text tables, and dual-axis charts paint a comprehensive picture. 
+
+The analysis is then presented in a captivating dashboard and a clear narrative, making the trends readily understandable.
 
 
 
