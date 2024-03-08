@@ -16,11 +16,6 @@ Part 3: Quantifying Bee Colony Loss across US States
 Line graph, dendrogram and choropleth map are used to address these questions effectively.
 
 
-
-<img width="861" alt="Screen Shot 2024-03-07 at 10 24 18 PM" src="https://github.com/sowmiya-rajkumar/Sowmiya-Rajkumar-Portfolio/assets/98767488/65b66dcf-2f06-44a6-b5e8-596c782055bb">
-
-
-
 ## **Project 2:** [A Multi-Factorial Analysis of Lemur Lifespan](https://github.com/sowmiya-rajkumar/A-Multi-Factorial-Analysis-of-Lemur-Lifespan)
 
 The objective of this project is to investigate the relationship between the age of a lemur’s mother when she conceives and the lemur’s lifespan. We will also examine whether this relationship is affected by the number of siblings the lemur has.
