@@ -30,5 +30,18 @@ Unveiling a three-year journey (2018-2020) of sales and profit trends, this proj
 The analysis is then presented in a captivating dashboard and a clear narrative, making the trends readily understandable.
 
 
+## **Projec 4:** [Revenue Insights Using Power BI](https://github.com/sowmiya-rajkumar/Revenue-Insights-using-Power-BI)
+
+This project aims to analyze hotel booking data to uncover trends that will maximize revenue for the hotel.
+
+Through data cleaning, data modeling in Power BI, and DAX measure development, I analyzed critical hotel performance metrics including:
+
+- RevPAR (Revenue per Available Room)
+- ADR (Average Daily Rate)
+- Occupation %
+- Realization %
+- DSRN (Daily Sellable Room Nights)
+- DBRN (Daily Booked Room Nights)
+- DURN (Daily Utilized Room Nights)
 
 
