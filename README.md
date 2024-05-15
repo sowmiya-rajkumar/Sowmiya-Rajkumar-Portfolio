@@ -7,27 +7,27 @@ This project presents a comprehensive analysis of an e-commerce database using P
 
 Questions answered: 
 
-- 1. Orders
-     - 1.1 Total orders made by customers
-     - 1.2 Average order price
-     - 1.3 Cities with most Orders
-     - 1.4 Cities with its average order value
+- Orders
+     - Total orders made by customers
+     - Average order price
+     - Cities with most Orders
+     - Cities with its average order value
      
-- 2. Customers
-     - 2.1 Total Customers
-     - 2.2 Customer segmentation based on purchase frequency
-     - 2.3 Average order price for each customer segment
-     - 2.4 Frequently purchased product category by "Loyal Customers"
-     - 2.5 Top 3 product categories across all customer segments
-     - 2.6 Product categories that are particularly popular with specific customer segments but not others
+- Customers
+     - Total Customers
+     - Customer segmentation based on purchase frequency
+     - Average order price for each customer segment
+     - Frequently purchased product category by "Loyal Customers"
+     - Top 3 product categories across all customer segments
+     - Product categories that are particularly popular with specific customer segments but not others
      
-- 3. Order Reviews
-     - 3.1 Total review_score counts by star
-     - 3.2 Top 20 products with highest number of 5-star reviews
-     - 3.3 Top 20 products with highest number of 1-star reviews
-     - 3.4 Top 20 sellers with highest number of 5 star rating
-     - 3.5 Top 20 sellers with highest number of 1 star rating
-     - 3.6 Breakdown of Star Ratings Based on Delivery Timeliness: No Delay, 1-5 Days Delay, 6-10 Days Delay, and Over 10 Days Delay
+- Order Reviews
+     - Total review_score counts by star
+     - Top 20 products with highest number of 5-star reviews
+     - Top 20 products with highest number of 1-star reviews
+     - Top 20 sellers with highest number of 5 star rating
+     - Top 20 sellers with highest number of 1 star rating
+     - Breakdown of Star Ratings Based on Delivery Timeliness: No Delay, 1-5 Days Delay, 6-10 Days Delay, and Over 10 Days Delay
   
 
 ## **Project 2:** [Spatiotemporal Trends in Honey Bee Colony Loss Across the United States](https://github.com/sowmiya-rajkumar/Spatiotemporal-Trends-in-Honey-Bee-Colony-Loss-Across-the-United-States)
