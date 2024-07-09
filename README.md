@@ -1,7 +1,7 @@
 # My portfolio
 This portfolio showcases my academic and personal data analysis projects. Here, you'll find a collection of work that demonstrates my skills in data visualization, problem-solving, and the ability to translate data into insights.
 
-## **Project 1:** [E-Commerce-Insights: A Comprehensive Analysis of Orders, Customers, and Reviews](https://github.com/sowmiya-rajkumar/E-Commerce-Insights-using-SQL)
+## **Project 1:** [E-Commerce-Insights: A Comprehensive Analysis of Orders, Customers, and Reviews using SQL](https://github.com/sowmiya-rajkumar/E-Commerce-Insights-using-SQL)
 
 This project presents a comprehensive analysis of an e-commerce database using PostgreSQL. It covers various aspects including orders, customers and reviews. Through SQL queries and data exploration, valuable insights have been derived to understand the dynamics of the e-commerce platform.
 
